@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerryThePlatipusDetector", "PerryThePlatipusDetector\PerryThePlatipusDetector.csproj", "{1399CE88-77A6-40A2-BDA4-B07AE3A57C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1399CE88-77A6-40A2-BDA4-B07AE3A57C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1399CE88-77A6-40A2-BDA4-B07AE3A57C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1399CE88-77A6-40A2-BDA4-B07AE3A57C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1399CE88-77A6-40A2-BDA4-B07AE3A57C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9368558A-A5D2-4AA1-A1B4-9AC3A4A91A40}
+	EndGlobalSection
+EndGlobal
